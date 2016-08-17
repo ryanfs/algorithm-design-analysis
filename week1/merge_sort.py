@@ -1,3 +1,5 @@
+# Merge sort algorithm and also count the number of inversions taking place.
+
 # test = [1, 20, 6, 4, 5] # should be 5
 # test_sorted_arr = [1, 2, 3, 5] # should be 0
 count = 0
